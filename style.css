@@ -1,0 +1,25 @@
+ p#important, h1#important{
+	  	color: blue;
+	  	background-color: #3FE694;
+	  	font-family:'Roboto', sans-serif;
+
+	  }
+
+	  .original {
+	  	font-size: 9px;
+	  	font-style: bold;
+	  	font-family:'Roboto', sans-serif;
+	  	  }
+
+	  .new {
+	  	text-decoration: underline;
+	  }
+
+	  #box {
+	  	padding: 5px; 
+	  	border: 4px dotted rgb(70, 90, 0);
+	  	background-color: rgb(24, 0, 60);
+	  	font-family: arial;
+	  	color: white;
+
+	  }
